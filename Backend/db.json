@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nikhil"
+    },
+    {
+      "name": "hiiiii",
+      "sal": "1000000",
+      "company": "idk",
+      "id": 2
+    },
+    {
+      "name": "roh",
+      "sal": "100000000",
+      "company": "IDK9",
+      "id": 3
+    },
+    {
+      "name": "Nikhi",
+      "sal": "100000000",
+      "company": "IDK2",
+      "id": 4
+    },
+    {
+      "name": "bharmunda",
+      "sal": "100000",
+      "company": "TCS",
+      "id": 5
+    },
+    {
+      "name": "nikhilllllllll",
+      "sal": "10000000",
+      "company": "huy",
+      "id": 6
+    }
+  ]
+}
